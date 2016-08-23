@@ -1,0 +1,22 @@
+{ "shirts": [{
+    "name": "Veruca Salt",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg",
+    "color": "Estate",
+    "size": "San Francisco",
+    "price": 15
+  }, {
+    "name": "Mike Teavee",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Alfonso_13_Highrise_Tegucigalpa.jpg",
+    "color": "Condo",
+    "size": "Seattle",
+    "price": 1
+  }, {
+    "name": "Violet Beauregarde",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg",
+    "color": "Apartment",
+    "size": "Portland",
+    "price": 3
+  }],
+ "orders": [],
+ "shirt-orders": []
+}

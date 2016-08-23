@@ -1,0 +1,7 @@
+<h2>Shopping Cart</h2>
+
+{{#each shoppingCart.items as |item|}}
+  {{item.name}} -- {{item.price}}
+{{/each}}
+
+<button {{action 'sendOrder'}}>Order Now</button>
